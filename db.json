@@ -1,0 +1,103 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "Bills": [
+    {
+      "id": 0,
+      "BillNumber": "BILL1021",
+      "BillAmount": 23,
+      "AmountPaid": 23,
+      "BillStatus": "Paid",
+      "BillingMonth": "march"
+    },
+    {
+      "id": 2,
+      "BillNumber": "BILL2001",
+      "BillAmount": 50,
+      "AmountPaid": 50,
+      "BillStatus": "Paid",
+      "BillingMonth": "April"
+    },
+    {
+      "id": 3,
+      "BillNumber": "BILL2012",
+      "BillAmount": 50,
+      "AmountPaid": 50,
+      "BillStatus": "Paid",
+      "BillingMonth": "May"
+    },
+    {
+      "id": 4,
+      "BillNumber": "BILL2013",
+      "BillAmount": 70,
+      "AmountPaid": 70,
+      "BillStatus": "Paid",
+      "BillingMonth": "June"
+    },
+    {
+      "id": 5,
+      "BillNumber": "BILL2014",
+      "BillAmount": 80,
+      "AmountPaid": 80,
+      "BillStatus": "Paid",
+      "BillingMonth": "July"
+    },
+    {
+      "Bill Number": "BILL1022",
+      "Bill Amount": 25,
+      "Amount Paid": 25,
+      "id": 6
+    }
+  ],
+  "Complaints": [
+    {
+      "id": 1,
+      "Ticket Number": "COMP197",
+      "Complaint Type": "Technical",
+      "Received Date": "22/03/2020"
+    },
+    {
+      "id": 2,
+      "Ticket Number": "COMP177",
+      "Complaint Type": "Finance",
+      "Received Date": "2/02/2020"
+    },
+    {
+      "id": 3,
+      "Ticket Number": "COMP187",
+      "Complaint Type": "Technical",
+      "Received Date": "2/03/2019"
+    },
+    {
+      "id": 4,
+      "Ticket Number": "COMP157",
+      "Complaint Type": "O & M",
+      "Received Date": "16/05/2018"
+    }
+  ]
+}
